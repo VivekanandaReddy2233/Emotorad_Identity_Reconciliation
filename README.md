@@ -148,4 +148,4 @@ Example: Missing Both email and phoneNumber
 ### Conclusion
 
 This project demonstrates a web service that efficiently manages customer contact information. It integrates advanced techniques for linking multiple data points (such as emails and phone numbers) to a single individual while ensuring proper organization and consolidation of contact details.
-# emotorad_identity_econciliation
+# Identity_Reconciliation
